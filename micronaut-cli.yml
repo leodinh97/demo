@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [agorapulse-micronaut-worker, annotation-api, app-name, awaitility, data, data-jpa, github-workflow-ci, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, lombok, maven, mockito, netty-server, openapi, postgres, readme, security-annotations, security-jwt, serialization-jackson, shade, slf4j-simple, test-resources, yaml]
